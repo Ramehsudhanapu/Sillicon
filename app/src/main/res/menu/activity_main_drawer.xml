@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/telugu_alphabets"
+            android:title="మనబడి "/>
+        <item
+            android:id="@+id/telugu_stories"
+            android:title="ప్రవేశం " />
+        <item
+            android:id="@+id/telugu_classTimings"
+            android:title="ప్రసూనాం" />
+        <item
+            android:id="@+id/telugu_prakasham"
+            android:title="ప్రకాశం " />
+        <item
+            android:id="@+id/telugu_pramodam"
+            android:title="ప్రమోదం " />
+        <item
+            android:id="@+id/telugu_prabhasham"
+            android:title="ప్రభాషం " />
+    </group>
+    <item android:title="కమ్యూనికేట్">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:title="స్నేహితుడికి తిరిగి పంపండి" />
+            <item
+                android:id="@+id/nav_share"
+                android:title="మాకు సహకరించండి" />
+        </menu>
+    </item>
+</menu>

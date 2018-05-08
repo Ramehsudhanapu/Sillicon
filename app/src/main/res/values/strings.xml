@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sillicon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="telugu">స్వాగతం</string>
+    <string name="app_telugu">తెలుగు</string>
+    <string name="action_settings">Settings</string>
+    <string name="telugu_letters">మనబడి</string>
+</resources>
